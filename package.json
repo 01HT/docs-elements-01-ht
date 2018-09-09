@@ -1,0 +1,31 @@
+{
+  "name": "@01ht/ht-docs-elements",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/01ht/ht-docs-elements.git"
+  },
+  "keywords": [
+    "documentation",
+    "elements",
+    "docs"
+  ],
+  "author": "Maksim Yurkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/01ht/ht-docs-elements/issues"
+  },
+  "homepage": "https://github.com/01ht/ht-docs-elements#readme",
+  "dependencies": {
+    "vuepress": "^0.14.2"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
