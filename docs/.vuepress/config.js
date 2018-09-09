@@ -7,11 +7,11 @@ module.exports = {
       "link",
       {
         rel: "icon",
-        href: `http://res.cloudinary.com/cdn-01ht/image/upload/v1531730403/logos/01ht/elements/logo.png`
+        href: `https://res.cloudinary.com/cdn-01ht/image/upload/v1531730403/logos/01ht/elements/logo.png`
       }
     ],
     ["link", { rel: "manifest", href: "/manifest.json" }],
-    ["meta", { name: "theme-color", content: "#3eaf7c" }],
+    ["meta", { name: "theme-color", content: "#83b735" }],
     ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
     [
       "meta",
@@ -21,7 +21,7 @@ module.exports = {
       "link",
       {
         rel: "apple-touch-icon",
-        href: `http://res.cloudinary.com/cdn-01ht/image/upload/c_scale,w_152/v1531730403/logos/01ht/elements/logo.png`
+        href: `https://res.cloudinary.com/cdn-01ht/image/upload/c_scale,w_152/v1531730403/logos/01ht/elements/logo.png`
       }
     ],
     [
@@ -29,8 +29,8 @@ module.exports = {
       {
         rel: "mask-icon",
         href:
-          "http://res.cloudinary.com/cdn-01ht/image/upload/c_scale,w_152/v1531730403/logos/01ht/elements/logo.svg",
-        color: "#3eaf7c"
+          "https://res.cloudinary.com/cdn-01ht/image/upload/c_scale,w_152/v1531730403/logos/01ht/elements/logo.svg",
+        color: "#83b735"
       }
     ],
     [
@@ -38,7 +38,7 @@ module.exports = {
       {
         name: "msapplication-TileImage",
         content:
-          "http://res.cloudinary.com/cdn-01ht/image/upload/c_scale,w_144/v1531730403/logos/01ht/elements/logo.png"
+          "https://res.cloudinary.com/cdn-01ht/image/upload/c_scale,w_144/v1531730403/logos/01ht/elements/logo.png"
       }
     ],
     ["meta", { name: "msapplication-TileColor", content: "#000000" }]
