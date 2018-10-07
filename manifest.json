@@ -1,14 +1,14 @@
 {
-  "name": "ElementsDocs",
+  "name": "Elements Docs",
   "short_name": "Руководство пользователя Elements",
   "icons": [
     {
-      "src": "https://res.cloudinary.com/cdn-01ht/image/upload/c_scale,w_192/v1530624792/logos/01ht/logo.png",
+      "src": "https://res.cloudinary.com/cdn-01ht/image/upload/c_scale,q_100,w_192/v1537280524/logos/01ht/elements/logo.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://res.cloudinary.com/cdn-01ht/image/upload/c_scale,w_512/v1530624792/logos/01ht/logo.png",
+      "src": "https://res.cloudinary.com/cdn-01ht/image/upload/c_scale,q_100,w_512/v1537280524/logos/01ht/elements/logo.png",
       "sizes": "512x512",
       "type": "image/png"
     }

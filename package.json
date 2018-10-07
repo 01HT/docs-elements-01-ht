@@ -1,7 +1,7 @@
 {
-  "name": "@01ht/ht-docs-elements",
+  "name": "docs-elements-01-ht",
   "version": "1.0.0",
-  "description": "",
+  "description": "Руководство пользователя Elements",
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev docs",
@@ -9,19 +9,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/01ht/ht-docs-elements.git"
+    "url": "git+https://github.com/01HT/docs-elements-01-ht.git"
   },
   "keywords": [
     "documentation",
     "elements",
-    "docs"
+    "docs",
+    "guide",
+    "01HT"
   ],
   "author": "Maksim Yurkov",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/01ht/ht-docs-elements/issues"
+    "url": "https://github.com/01HT/docs-elements-01-ht/issues"
   },
-  "homepage": "https://github.com/01ht/ht-docs-elements#readme",
+  "homepage": "https://github.com/01HT/docs-elements-01-ht#readme",
   "dependencies": {
     "vuepress": "^0.14.2"
   },

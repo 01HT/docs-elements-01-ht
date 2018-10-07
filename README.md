@@ -1,14 +1,39 @@
 <p align="center">
-  <a href="https://docs.elements.01.ht" target="_blank">
-    <img width="280" src="https://res.cloudinary.com/cdn-01ht/image/upload/v1535207284/users/O56irHsSXsaEssaAyW06FYBAnAp1.png" alt="logo">
+  <a href="https://docs.elements.01.ht/" target="_blank">
+    <img width="90" src="https://res.cloudinary.com/cdn-01ht/image/upload/v1537280524/logos/01ht/elements/logo.svg" alt="logo">
   </a>
 </p>
 
-# ElementsDocs
+# Elements Docs
 
-<div>
-  <p>В руководстве размещена информация о том как пользоваться приложением Elements, а также условия и рекомендации для авторов.</p>
-  <p>В случае, если вы не найдете ответа на ваш вопрос, вы всегда можете его задать на нашем канале <a href="https://01ht.slack.com" target="_blank">Slack</a> или задать его нам по почте <strong>support@01.ht</strong>.</p>
-  <p>Elements находиться в beta стадии, в руководство, правила и условия для авторов будут периодически вноситься изменения.</p>
-  <p>Также вы можете исправить найденную на странице ошибку, нажав <strong>"Редактировать страницу на GitHub"</strong> и создав pull request на GitHub. Заранее Спасибо!</p>
-</div>
+> Руководство пользователя Elements
+
+https://docs.elements.01.ht/
+
+В руководстве размещена информация о том, как пользоваться приложением Elements, подробности работы функционала, правила и рекомендации для авторов(разработчиков) елементов, а также ответы на часто задаваемые вопросы.
+
+В случае, если вы не найдете ответа на ваш вопрос, вы всегда можете его задать на канале Elements в чате нашего сообщества [Spectrum](https://spectrum.chat/01ht/elements/) или по почте support@01.ht.
+
+Если вы нашли на странице ошибку или вам есть что добавить в данное руководство и вы считаете, что это будет полезно для пользователей Elements, то вы всегда можете сделать это => [подробнее](https://github.com/01HT/docs-elements-01-ht/blob/master/CONTRIBUTING.md)
+
+### Краткое содержание
+
+#### Руководство
+
+* [Регистрация и вход](https://docs.elements.01.ht/guide/sign-in/)
+* [Статус проверенного пользователя](https://docs.elements.01.ht/guide/verified-user/)
+
+#### Для авторов
+
+* [Как стать автором](https://docs.elements.01.ht/for-authors/how-become-author/)
+* [Выплаты](https://docs.elements.01.ht/for-authors/payments/)
+
+#### FAQ
+
+* [Часто задаваемые вопросы](https://docs.elements.01.ht/faq/)
+
+***
+
+* [Содействие](https://github.com/maksimyurkov/webtutor-docs/blob/master/CONTRIBUTING.md)
+* [Авторы](https://github.com/maksimyurkov/webtutor-docs/blob/master/CONTRIBUTORS.md)
+* [Лицензия](https://github.com/maksimyurkov/webtutor-docs/blob/master/LICENSE)
