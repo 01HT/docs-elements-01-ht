@@ -35,6 +35,6 @@ Elements находиться на стадии бета-тестировани�
 
 ***
 
-* [Содействие](https://github.com/maksimyurkov/webtutor-docs/blob/master/CONTRIBUTING.md)
-* [Авторы](https://github.com/maksimyurkov/webtutor-docs/blob/master/CONTRIBUTORS.md)
-* [Лицензия](https://github.com/maksimyurkov/webtutor-docs/blob/master/LICENSE)
+* [Содействие](https://github.com/01HT/docs-elements-01-ht/blob/master/CONTRIBUTING.md)
+* [Авторы](https://github.com/01HT/docs-elements-01-ht/blob/master/CONTRIBUTORS.md)
+* [Лицензия](https://github.com/01HT/docs-elements-01-ht/blob/master/LICENSE)
