@@ -73,16 +73,56 @@ module.exports = {
     sidebar: {
       "/guide/": [
         {
-          title: "Руководство",
           collapsable: false,
-          children: ["", "sign-in", "verified-user"]
+          children: [
+            ""
+          ]
+        },
+        {
+          title: "Действия",
+          collapsable: false,
+          children: [
+            "/guide/element-search/",
+            "/guide/element-choice/",
+            "/guide/element-getting/",
+            "/guide/license-compliance/",
+            "/guide/element-using/",
+            "/guide/license-check/",
+            "/guide/element-update/"
+          ]
+        },
+        {
+          title: "Разделы",
+          collapsable: false,
+          children: [
+            "/guide/sign-in/",
+            "/guide/account/",
+            "/guide/my-organizations/",
+            "/guide/my-elements/",
+            "/guide/purchases/",
+            "/guide/payments/",
+            "/guide/catalog/",
+            "/guide/element/",
+            "/guide/user/",
+            "/guide/organization/",
+            "/guide/license/"
+          ]
+        }, {
+          title: "Прочее",
+          collapsable: false,
+          children: [
+            "/guide/verified-user/"
+          ]
         }
       ],
       "/for-authors/": [
         {
           title: "Для авторов",
           collapsable: false,
-          children: ["how-become-author", "payments"]
+          children: [
+            "/for-authors/how-become-author/",
+            "/for-authors/payments/"
+          ]
         }
       ],
       "/faq/": [
