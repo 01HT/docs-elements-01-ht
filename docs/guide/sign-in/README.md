@@ -11,11 +11,11 @@
 Для регистрации или входа нажмите на кнопку "Войти" в правом верхнем углу экрана.
 
 <div class="center">
-    <img style="max-width:244px;" src="./1.png">
+    <img style="width:244px;" src="./1.png">
 </div>
 
 <div class="center">
-    <img style="max-width:370px;" src="./2.png">
+    <img style="width:370px;" src="./2.png">
 </div>
 
 ## Регистрация
@@ -40,7 +40,7 @@
 4) Укажите ваш адрес электронной почты
 
 <div class="center">
-    <img style="max-width:322px;" src="./5.png">
+    <img style="width:322px;" src="./5.png">
 </div>
 
 Указание адреса вашей электронной почты необходимо в случае если:
@@ -53,7 +53,7 @@
 Необходимо для всех вариантов, кроме входа через Google.
 
 <div class="center">
-    <img style="max-width:370px;" src="./4.png">
+    <img style="width:370px;" src="./4.png">
 </div>
 
 6) Готово
@@ -95,7 +95,7 @@
 Если для входа вы используете электронную почту, то воспользуйтесь функцией восстановления пароля, нажмите "Не удается войти в аккаунт?" и следуйте дальнейшим инструкциям.
 
 <div class="center">
-    <img style="max-width:370px;" src="./3.png">
+    <img style="width:370px;" src="./3.png">
 </div>
 
 ## Политика конфиденциальности и условия использования
