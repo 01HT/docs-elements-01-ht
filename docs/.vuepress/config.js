@@ -1,6 +1,6 @@
 module.exports = {
   dest: "vuepress",
-  title: "Elements Docs",
+  title: "ElementsDocs",
   description: "Руководство пользователя Elements",
   ga: "UA-117327494-4",
   head: [

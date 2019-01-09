@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Elements Docs
+# ElementsDocs
 
 > Руководство пользователя Elements
 
