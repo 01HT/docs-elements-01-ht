@@ -16,7 +16,7 @@
 
 ``` sh
 git clone https://github.com/01HT/docs-elements-01-ht
-cd webtutor-docs
+cd docs-elements-01-ht
 npm install
 npm run dev
 ```

@@ -55,11 +55,11 @@ module.exports = {
     sidebarDepth: 3,
     // algolia: {
     //   apiKey: "012853d1e7866badd85449541d83a5cb",
-    //   indexName: "webtutor_docs"
+    //   indexName: "elements_docs"
     // },
     nav: [
       { text: "Руководство", link: "/guide/" },
-      { text: "Для авторов", link: "/for-authors/" },
+      // { text: "Для авторов", link: "/for-authors/" },
       { text: "FAQ", link: "/faq/" }
     ],
     editLinkText: "Редактировать страницу на GitHub",
@@ -84,11 +84,15 @@ module.exports = {
           children: [
             "/guide/element-search/",
             "/guide/element-choice/",
-            "/guide/element-getting/",
+            "/guide/license-purchase/",
+            "/guide/license-activation/",
             "/guide/license-compliance/",
-            "/guide/element-using/",
             "/guide/license-check/",
-            "/guide/element-update/"
+            "/guide/element-using/",
+            "/guide/element-update/",
+            "/guide/become-an-author/",
+            "/guide/element-add/",
+            "/guide/payout/"
           ]
         },
         {
@@ -97,15 +101,19 @@ module.exports = {
           children: [
             "/guide/sign-in/",
             "/guide/account/",
-            "/guide/my-organizations/",
+            "/guide/my-licenses/",
+            "/guide/my-orders/",
             "/guide/my-elements/",
-            "/guide/purchases/",
-            "/guide/payments/",
+            "/guide/my-organizations/",
+            "/guide/my-statistics/",
             "/guide/catalog/",
             "/guide/element/",
             "/guide/user/",
             "/guide/organization/",
-            "/guide/license/"
+            "/guide/become-an-author-page/",
+            "/guide/cart/",
+            "/guide/checkout/",
+            "/guide/license-checker-page/"
           ]
         }, {
           title: "Прочее",
@@ -115,16 +123,14 @@ module.exports = {
           ]
         }
       ],
-      "/for-authors/": [
-        {
-          title: "Для авторов",
-          collapsable: false,
-          children: [
-            "/for-authors/how-become-author/",
-            "/for-authors/payments/"
-          ]
-        }
-      ],
+      // "/for-authors/": [
+      //   {
+      //     title: "Для авторов",
+      //     collapsable: false,
+      //     children: [
+      //     ]
+      //   }
+      // ],
       "/faq/": [
         {
           title: "FAQ",

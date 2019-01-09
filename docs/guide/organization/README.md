@@ -1,6 +1,6 @@
 # Страница организации
 
-https://elements.01.ht/organization/**organizationID**
+https://elements.01.ht/organization/**organizationNumber**
 
 У каждой организации Elements есть своя страница. На странице размещается различная информация, которую владелец организации указал в разделе [Мои организации](/guide/my-organizations/).
 

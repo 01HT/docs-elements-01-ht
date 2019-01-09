@@ -8,7 +8,7 @@ footer: MIT Licensed | Copyright © 2018-present 01HT LLC
 
 ::: warning Внимание
 
-Elements пока находится на стадии бета-тестирования, поэтому в данное руководство будут периодически вноситься изменения.
+Elements находится на стадии бета-тестирования, поэтому в руководство периодически будут вноситься изменения.
 :::
 
 В руководстве размещена информация о том, как пользоваться приложением Elements, подробности работы функционала, правила и рекомендации для авторов елементов, а также ответы на часто задаваемые вопросы.
@@ -27,34 +27,36 @@ Elements пока находится на стадии бета-тестиров
 
 * [Поиск элемента](/guide/element-search/)
 * [Выбор элемента](/guide/element-choice/)
-* [Приобретение лицензии](/guide/element-getting/)
+* [Покупка лицензии](/guide/license-purchase/)
+* [Активация лицензии](/guide/license-activation/)
 * [Соблюдение условий лицензии](/guide/license-compliance/)
+* [Проверка лицензий](/guide/license-check/)
 * [Использование элемента](/guide/element-using/)
-* [Проверка лицензии](/guide/license-check/)
 * [Обновление элемента](/guide/element-update/)
+* [Стать автором](/guide/become-an-author/)
+* [Добавление элемента](/guide/element-add/)
+* [Выплата вознаграждения](/guide/payout/)
 
 #### Разделы
 
 * [Регистрация и вход](/guide/sign-in/)
 * [Мой аккаунт](/guide/account/)
-* [Мои организации](/guide/my-organizations/)
+* [Мои лицензии](/guide/my-licenses/)
+* [Мои заказы](/guide/my-orders/)
 * [Мои элементы](/guide/my-elements/)
-* [Мои покупки](/guide/purchases/)
-* [Мои платежи](/guide/payments/)
+* [Мои организации](/guide/my-organizations/)
+* [Моя статистика](/guide/my-statistics/)
 * [Каталог](/guide/catalog/)
 * [Страница элемента](/guide/element/)
 * [Страница пользователя](/guide/user/)
 * [Страница организации](/guide/organization/)
-* [Страница лицензии](/guide/license/)
+* [Стать автором](/guide/become-an-author-page/)
+* [Корзина](/guide/cart/)
+* [Проверка лицензий](/guide/license-checker-page/)
 
 #### Прочее
 
 * [Проверенный пользователь](/guide/verified-user/)
-
-### Для авторов
-
-* [Как стать автором](/for-authors/how-become-author/)
-* [Выплаты](/for-authors/payments/)
 
 ### FAQ
 

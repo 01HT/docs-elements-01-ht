@@ -26,34 +26,36 @@ https://docs.elements.01.ht/
 
 * [Поиск элемента](https://docs.elements.01.ht/guide/element-search/)
 * [Выбор элемента](https://docs.elements.01.ht/guide/element-choice/)
-* [Приобретение лицензии](https://docs.elements.01.ht/guide/element-getting/)
+* [Покупка лицензии](https://docs.elements.01.ht/guide/license-purchase/)
+* [Активация лицензии](https://docs.elements.01.ht/guide/license-activation/)
 * [Соблюдение условий лицензии](https://docs.elements.01.ht/guide/license-compliance/)
+* [Проверка лицензий](https://docs.elements.01.ht/guide/license-check/)
 * [Использование элемента](https://docs.elements.01.ht/guide/element-using/)
-* [Проверка лицензии](https://docs.elements.01.ht/guide/license-check/)
 * [Обновление элемента](https://docs.elements.01.ht/guide/element-update/)
+* [Стать автором](https://docs.elements.01.ht/guide/become-an-author/)
+* [Добавление элемента](https://docs.elements.01.ht/guide/element-add/)
+* [Выплата вознаграждения](https://docs.elements.01.ht/guide/payout/)
 
 #### Разделы
 
 * [Регистрация и вход](https://docs.elements.01.ht/guide/sign-in/)
 * [Мой аккаунт](https://docs.elements.01.ht/guide/account/)
-* [Мои организации](https://docs.elements.01.ht/guide/my-organizations/)
+* [Мои лицензии](https://docs.elements.01.ht/guide/my-licenses/)
+* [Мои заказы](https://docs.elements.01.ht/guide/my-orders/)
 * [Мои элементы](https://docs.elements.01.ht/guide/my-elements/)
-* [Мои покупки](https://docs.elements.01.ht/guide/purchases/)
-* [Мои платежи](https://docs.elements.01.ht/guide/payments/)
+* [Мои организации](https://docs.elements.01.ht/guide/my-organizations/)
+* [Моя статистика](https://docs.elements.01.ht/guide/my-statistics/)
 * [Каталог](https://docs.elements.01.ht/guide/catalog/)
 * [Страница элемента](https://docs.elements.01.ht/guide/element/)
 * [Страница пользователя](https://docs.elements.01.ht/guide/user/)
 * [Страница организации](https://docs.elements.01.ht/guide/organization/)
-* [Страница лицензии](https://docs.elements.01.ht/guide/license/)
+* [Стать автором](https://docs.elements.01.ht/guide/become-an-author-page/)
+* [Корзина](https://docs.elements.01.ht/guide/cart/)
+* [Проверка лицензий](https://docs.elements.01.ht/guide/license-checker-page/)
 
 #### Прочее
 
 * [Проверенный пользователь](https://docs.elements.01.ht/guide/verified-user/)
-
-### Для авторов
-
-* [Как стать автором](https://docs.elements.01.ht/for-authors/how-become-author/)
-* [Выплаты](https://docs.elements.01.ht/for-authors/payments/)
 
 ### FAQ
 
