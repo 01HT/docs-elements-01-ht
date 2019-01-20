@@ -54,7 +54,7 @@ module.exports = {
     // displayAllHeaders: true,
     sidebarDepth: 3,
     // algolia: {
-    //   apiKey: "012853d1e7866badd85449541d83a5cb",
+    //   apiKey: "db4d791007c2b4677cd87413d2a75ba5",
     //   indexName: "elements_docs"
     // },
     nav: [
@@ -74,9 +74,7 @@ module.exports = {
       "/guide/": [
         {
           collapsable: false,
-          children: [
-            ""
-          ]
+          children: [""]
         },
         {
           title: "Действия",
@@ -92,6 +90,7 @@ module.exports = {
             "/guide/element-update/",
             "/guide/become-an-author/",
             "/guide/element-add/",
+            "/guide/conclusion-contract/",
             "/guide/payout/"
           ]
         },
@@ -115,12 +114,11 @@ module.exports = {
             "/guide/checkout/",
             "/guide/license-checker-page/"
           ]
-        }, {
+        },
+        {
           title: "Прочее",
           collapsable: false,
-          children: [
-            "/guide/verified-user/"
-          ]
+          children: ["/guide/verified-user/"]
         }
       ],
       // "/for-authors/": [

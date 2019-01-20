@@ -4,6 +4,8 @@
   </a>
 </p>
 
+[Приложение Elements](http://elements.01.ht)
+
 # ElementsDocs
 
 > Руководство пользователя Elements
@@ -34,6 +36,7 @@ https://docs.elements.01.ht/
 * [Обновление элемента](https://docs.elements.01.ht/guide/element-update/)
 * [Стать автором](https://docs.elements.01.ht/guide/become-an-author/)
 * [Добавление элемента](https://docs.elements.01.ht/guide/element-add/)
+* [Заключение договора](https://docs.elements.01.ht/guide/conclusion-contract/)
 * [Выплата вознаграждения](https://docs.elements.01.ht/guide/payout/)
 
 #### Разделы
