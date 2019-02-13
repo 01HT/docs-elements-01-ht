@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://res.cloudinary.com/cdn-01ht/image/upload/v1537280524/logos/01ht/elements/logo.svg
+heroImage: https://res.cloudinary.com/cdn-01ht/image/upload/v1549575628/logos/01ht/elements/logo.svg
 actionText: Перейти к руководству →
 actionLink: /guide/
 footer: MIT Licensed | Copyright © 2018-present 01HT LLC
