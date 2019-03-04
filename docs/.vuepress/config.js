@@ -8,7 +8,7 @@ module.exports = {
       "link",
       {
         rel: "icon",
-        href: `https://res.cloudinary.com/cdn-01ht/image/upload/c_scale,q_100,w_512/v1549575628/logos/01ht/elements/logo.png`
+        href: `https://res.cloudinary.com/cdn-01ht/image/upload/c_scale,q_100,w_512/v1551714332/apps/elements-docs/elements-docs-logo.png`
       }
     ],
     ["link", { rel: "manifest", href: "/manifest.json" }],
@@ -22,7 +22,7 @@ module.exports = {
       "link",
       {
         rel: "apple-touch-icon",
-        href: `https://res.cloudinary.com/cdn-01ht/image/upload/c_scale,q_100,w_152/v1549575628/logos/01ht/elements/logo.png`
+        href: `https://res.cloudinary.com/cdn-01ht/image/upload/c_scale,q_100,w_152/v1551714332/apps/elements-docs/elements-docs-logo.png`
       }
     ],
     [
@@ -30,7 +30,7 @@ module.exports = {
       {
         rel: "mask-icon",
         href:
-          "https://res.cloudinary.com/cdn-01ht/image/upload/v1549575628/logos/01ht/elements/logo.svg",
+          "https://res.cloudinary.com/cdn-01ht/image/upload/v1551714332/apps/elements-docs/elements-docs-logo.svg",
         color: "#83b735"
       }
     ],
@@ -39,7 +39,7 @@ module.exports = {
       {
         name: "msapplication-TileImage",
         content:
-          "https://res.cloudinary.com/cdn-01ht/image/upload/c_scale,q_100,w_144/v1549575628/logos/01ht/elements/logo.png"
+          "https://res.cloudinary.com/cdn-01ht/image/upload/c_scale,q_100,w_144/v1551714332/apps/elements-docs/elements-docs-logo.png"
       }
     ],
     ["meta", { name: "msapplication-TileColor", content: "#000000" }]
@@ -53,10 +53,10 @@ module.exports = {
     docsDir: "docs",
     // displayAllHeaders: true,
     sidebarDepth: 3,
-    // algolia: {
-    //   apiKey: "db4d791007c2b4677cd87413d2a75ba5",
-    //   indexName: "elements_docs"
-    // },
+    algolia: {
+      apiKey: '047070dc32068d18e50aa4da99fc7a34',
+      indexName: 'elements_01_ht'
+    },
     nav: [
       { text: "Руководство", link: "/guide/" },
       // { text: "Для авторов", link: "/for-authors/" },

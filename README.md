@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://docs.elements.01.ht/" target="_blank">
-    <img width="90" src="https://res.cloudinary.com/cdn-01ht/image/upload/v1549575628/logos/01ht/elements/logo.svg" alt="logo">
+    <img width="90" src="https://res.cloudinary.com/cdn-01ht/image/upload/v1551714332/apps/elements-docs/elements-docs-logo.svg" alt="logo">
   </a>
 </p>
 
