@@ -3,7 +3,7 @@ home: true
 heroImage: https://res.cloudinary.com/cdn-01ht/image/upload/v1551714332/apps/elements-docs/elements-docs-logo.svg
 actionText: Перейти к руководству →
 actionLink: /guide/
-footer: MIT Licensed | Copyright © 2018-present 01HT LLC
+footer: MIT Licensed | Copyright © 2019-present 01HT LLC
 ---
 
 ::: warning Внимание

@@ -2,7 +2,7 @@
 
 Обратите внимание, что покупать и [активировать лицензию](/guide/license-activation/) необходимо, только в случае если вы планируете использовать элемент на условиях коммерческой лицензии [Elements Single Commercial License (ESCL)](https://github.com/01HT/elements-single-commercial-license)
 
-Если элемент распространяется на основе персональной ([Elements Personal Free License (EPFL)](https://github.com/01HT/elements-personal-free-license)) или свободной лицензии ([MIT License](https://choosealicense.com/licenses/mit/), [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/), [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/)) и вы планируете использовать элемент на условиях данных лицензий, то покупать ничего не надо, достаточно [соблюдать условия лицензий](/guide/license-compliance/).
+Если элемент распространяется на основе персональной ([Elements Personal Free License (EPFL)](https://github.com/01HT/elements-personal-free-license)), свободной лицензии ([MIT License](https://choosealicense.com/licenses/mit/), [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/), [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/)) или авторской(некоммерческой) и вы планируете использовать элемент на условиях данных лицензий, то покупать ничего не надо, достаточно [соблюдать условия лицензий](/guide/license-compliance/).
 
 Для покупки коммерческой лицензии(ESCL):
 
