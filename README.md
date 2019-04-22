@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://docs.elements.01.ht/" target="_blank">
-    <img width="90" src="https://res.cloudinary.com/cdn-01ht/image/upload/v1551714332/apps/elements-docs/elements-docs-logo.svg" alt="logo">
+    <img width="90" src="./docs/.vuepress/public/elements-docs-logo-main.png" alt="logo">
   </a>
 </p>
 
@@ -34,7 +34,6 @@ https://docs.elements.01.ht/
 * [Проверка лицензий](https://docs.elements.01.ht/guide/license-check/)
 * [Использование элемента](https://docs.elements.01.ht/guide/element-using/)
 * [Обновление элемента](https://docs.elements.01.ht/guide/element-update/)
-* [Стать автором](https://docs.elements.01.ht/guide/become-an-author/)
 * [Добавление элемента](https://docs.elements.01.ht/guide/element-add/)
 * [Заключение договора](https://docs.elements.01.ht/guide/conclusion-contract/)
 * [Выплата вознаграждения](https://docs.elements.01.ht/guide/payout/)
@@ -52,7 +51,6 @@ https://docs.elements.01.ht/
 * [Страница элемента](https://docs.elements.01.ht/guide/element/)
 * [Страница пользователя](https://docs.elements.01.ht/guide/user/)
 * [Страница организации](https://docs.elements.01.ht/guide/organization/)
-* [Стать автором](https://docs.elements.01.ht/guide/become-an-author-page/)
 * [Корзина](https://docs.elements.01.ht/guide/cart/)
 * [Проверка лицензий](https://docs.elements.01.ht/guide/license-checker-page/)
 

@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://res.cloudinary.com/cdn-01ht/image/upload/v1551714332/apps/elements-docs/elements-docs-logo.svg
+heroImage: /elements-docs-logo-main.png
 actionText: Перейти к руководству →
 actionLink: /guide/
 footer: MIT Licensed | Copyright © 2019-present 01HT LLC
@@ -35,7 +35,6 @@ Elements находится на стадии бета-тестирования,
 * [Проверка лицензий](/guide/license-check/)
 * [Использование элемента](/guide/element-using/)
 * [Обновление элемента](/guide/element-update/)
-* [Стать автором](/guide/become-an-author/)
 * [Добавление элемента](/guide/element-add/)
 * [Заключение договора](/guide/conclusion-contract/)
 * [Выплата вознаграждения](/guide/payout/)
@@ -53,7 +52,6 @@ Elements находится на стадии бета-тестирования,
 * [Страница элемента](/guide/element/)
 * [Страница пользователя](/guide/user/)
 * [Страница организации](/guide/organization/)
-* [Стать автором](/guide/become-an-author-page/)
 * [Корзина](/guide/cart/)
 * [Проверка лицензий](/guide/license-checker-page/)
 

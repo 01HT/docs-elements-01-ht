@@ -8,7 +8,7 @@ module.exports = {
       "link",
       {
         rel: "icon",
-        href: `https://res.cloudinary.com/cdn-01ht/image/upload/c_scale,q_100,w_512/v1551714332/apps/elements-docs/elements-docs-logo.png`
+        href: `/elements-docs-logo-main.png`
       }
     ],
     ["link", { rel: "manifest", href: "/manifest.json" }],
@@ -88,7 +88,6 @@ module.exports = {
             "/guide/license-check/",
             "/guide/element-using/",
             "/guide/element-update/",
-            "/guide/become-an-author/",
             "/guide/element-add/",
             "/guide/conclusion-contract/",
             "/guide/payout/"
@@ -109,7 +108,6 @@ module.exports = {
             "/guide/element/",
             "/guide/user/",
             "/guide/organization/",
-            "/guide/become-an-author-page/",
             "/guide/cart/",
             "/guide/checkout/",
             "/guide/license-checker-page/"
