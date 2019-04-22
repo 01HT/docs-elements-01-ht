@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://docs.elements.01.ht/" target="_blank">
-    <img width="90" src="./docs/.vuepress/public/elements-docs-logo-main.png" alt="logo">
+    <img width="220" src="./docs/.vuepress/public/elements-docs-logo-main.png" alt="logo">
   </a>
 </p>
 
