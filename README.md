@@ -12,7 +12,7 @@
 
 https://docs.elements.01.ht/
 
-В руководстве размещена информация о том, как пользоваться приложением Elements, подробности работы функционала, правила и рекомендации для авторов(разработчиков) елементов, а также ответы на часто задаваемые вопросы.
+В руководстве размещена информация о том, как пользоваться приложением Elements, подробности работы функционала, правила и рекомендации для авторов(разработчиков) элементов, а также ответы на часто задаваемые вопросы.
 
 В случае, если вы не найдете ответа на ваш вопрос, вы всегда можете его задать на канале Elements в чате нашего сообщества [Spectrum](https://spectrum.chat/01ht/elements/) или по почте support@01.ht.
 
@@ -36,17 +36,19 @@ https://docs.elements.01.ht/
 * [Обновление элемента](https://docs.elements.01.ht/guide/element-update/)
 * [Добавление элемента](https://docs.elements.01.ht/guide/element-add/)
 * [Заключение договора](https://docs.elements.01.ht/guide/conclusion-contract/)
-* [Выплата вознаграждения](https://docs.elements.01.ht/guide/payout/)
+* [Выплата вознаграждения](https://docs.elements.01.ht/guide/remuneration/)
 
 #### Разделы
 
 * [Регистрация и вход](https://docs.elements.01.ht/guide/sign-in/)
-* [Мой аккаунт](https://docs.elements.01.ht/guide/account/)
+* [Аккаунт 01HT](https://docs.elements.01.ht/guide/account/)
 * [Мои лицензии](https://docs.elements.01.ht/guide/my-licenses/)
 * [Мои заказы](https://docs.elements.01.ht/guide/my-orders/)
 * [Мои элементы](https://docs.elements.01.ht/guide/my-elements/)
 * [Мои организации](https://docs.elements.01.ht/guide/my-organizations/)
 * [Моя статистика](https://docs.elements.01.ht/guide/my-statistics/)
+* [Настройки договора](https://docs.elements.01.ht/guide/contract/)
+* [Настройки выплат](https://docs.elements.01.ht/guide/payout/)
 * [Каталог](https://docs.elements.01.ht/guide/catalog/)
 * [Страница элемента](https://docs.elements.01.ht/guide/element/)
 * [Страница пользователя](https://docs.elements.01.ht/guide/user/)

@@ -54,8 +54,8 @@ module.exports = {
     // displayAllHeaders: true,
     sidebarDepth: 3,
     algolia: {
-      apiKey: '047070dc32068d18e50aa4da99fc7a34',
-      indexName: 'elements_01_ht'
+      apiKey: "047070dc32068d18e50aa4da99fc7a34",
+      indexName: "elements_01_ht"
     },
     nav: [
       { text: "Руководство", link: "/guide/" },
@@ -90,7 +90,7 @@ module.exports = {
             "/guide/element-update/",
             "/guide/element-add/",
             "/guide/conclusion-contract/",
-            "/guide/payout/"
+            "/guide/remuneration/"
           ]
         },
         {
@@ -104,6 +104,8 @@ module.exports = {
             "/guide/my-elements/",
             "/guide/my-organizations/",
             "/guide/my-statistics/",
+            "/guide/contract/",
+            "/guide/payout/",
             "/guide/catalog/",
             "/guide/element/",
             "/guide/user/",
